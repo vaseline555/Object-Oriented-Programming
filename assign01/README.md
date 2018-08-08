@@ -1,4 +1,4 @@
-** Sample Input
+## Sample Input
 1
 8 11
 abcDEFGhigg
@@ -15,7 +15,7 @@ Bambi
 Betty
 Dagbert
 
-** Sample Output
+## Sample Output
 2 5
 2 3
 1 2
