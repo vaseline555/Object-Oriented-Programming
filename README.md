@@ -15,7 +15,6 @@ Course works of CSE241 Object Oriented Programming, UNIST
 
 ## Grading results
 * Each assignment is graded by testing with 5 unknown test cases
-* Grading results
 
 Assignment | Score 
 ------------ | ------------ 
