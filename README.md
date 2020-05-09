@@ -1,6 +1,6 @@
 # Object oriented programming source codes
 <pre>
-Course works of CSE241 Object Oriented Programming, UNIST
+Course works of CSE241: Object Oriented Programming, UNIST
 </pre>
 
 ## Assignment Description
