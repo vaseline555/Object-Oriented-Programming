@@ -33,4 +33,4 @@ Assignment | Score
 * [ ] Refactoring assignment07
 
 <hr>
-By. Seokju Hahn / https://www.kaggle.com/vaseline555 / sjhahn11512@naver.com
+By. Seok-Ju Hahn / seokjuhahn@unist.ac.kr
